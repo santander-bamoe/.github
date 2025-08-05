@@ -6,6 +6,7 @@ This organization includes the following repositories:
 
 - [BAMOE Setup](https://github.com/santander-bamoe/bamoe-setup) - A set of instructions on how to setup BAMOE on your local workstation.
 - [BAMOE Maven](https://github.com/santander-bamoe/bamoe-maven) - A set of custom Maven project generators.
+- [BAMOE Examples](https://github.com/santander-bamoe/bamoe-examples) - BAMOE product examples.
 - [BAMOE Skills Academy Student Documentation](https://github.com/santander-bamoe/bamoe-skills-academy-documents) - A set of lab guides and presentations, used to learn BMAOE.
 - [BAMOE Skills Academy Decision Labs](https://github.com/santander-bamoe/bamoe-skills-academy-decision-labs) - A set of labs used to learn decision 
 - [BAMOE Skills Academy Process Labs](https://github.com/santander-bamoe/bamoe-skills-academy-process-labs) - A set of labs used to learn process automation.
