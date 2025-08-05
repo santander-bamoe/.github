@@ -4,8 +4,8 @@ This organization includes all training content for Santander's verson of the BA
 ## Overview
 This organization includes the following repositories:
 
-- [BAMOE Setup](../../bamoe-setup/README.md) - A set of instructions on how to setup BAMOE on your local workstation.
-- [BAMOE Maven](../../bamoe-maven/README.md) - A set of custom Maven project generators.
+- [BAMOE Setup](https://github.com/santander-bamoe/bamoe-setup) - A set of instructions on how to setup BAMOE on your local workstation.
+- [BAMOE Maven](https://github.com/santander-bamoe/bamoe-maven) - A set of custom Maven project generators.
 - [BAMOE Skills Academy Student Documentation](../../bamoe-skills-academy-documentation/README.md) - A set of lab guides and presentations, used to learn BMAOE.
 - [BAMOE Skills Academy Decision Labs](../../bamoe-skills-academy-decision-labs/README.md) - A set of labs used to learn decision automation.
 - [BAMOE Skills Academy My Labs](../../bamoe-skills-academy-my-labs/README.md) - A set of labs created by the student, used to learn BAMOE.
