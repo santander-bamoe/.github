@@ -10,7 +10,7 @@ This organization includes the following repositories:
 - [BAMOE Skills Academy Decision Labs](https://github.com/santander-bamoe/bamoe-skills-academy-decision-labs) - A set of labs used to learn decision 
 - [BAMOE Skills Academy Process Labs](https://github.com/santander-bamoe/bamoe-skills-academy-process-labs) - A set of labs used to learn process automation.
 - [BAMOE Skills Academy My Labs](https://github.com/santander-bamoe/bamoe-skills-academy-mylabs) - A set of labs created by the student, used to learn BAMOE.
-- [BAMOE Skills Academy Examination](.https://github.com/santander-bamoe/bamoe-skills-academy-examination) - Final examination for BAMOE Skills Academy.
+- [BAMOE Skills Academy Examination](https://github.com/santander-bamoe/bamoe-skills-academy-examination) - Final examination for BAMOE Skills Academy.
 
 ## Additional Information (*Appendicies*)
 This repository is focused on business automation using [**IBM Business Automation Manager Open Editions**](https://www.ibm.com/docs/en/ibamoe/9.2.x) products, specifically the IBM build of [**Kogito**](https://kogito.kie.org/) known as **IBM Decision Manager Open Edition (DMOE)** and **IBM Process Automation Manager Open Edition (PAMOE)**, leveraging [**Quarkus**](https://quarkus.io/) or [**Spring Boot** _(currently for Decisions only)_](https://spring.io/) as the assoicated container runtime.  The following online documentation is available in order to learn various aspects of these products and frameworks:
